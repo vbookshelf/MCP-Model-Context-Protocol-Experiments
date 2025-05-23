@@ -1,4 +1,4 @@
-# Model Context Protocol MCP Experiments
+# MCP - Model Context Protocol - Experiments
 My experiments with MCP (Model Context Protocol)
 <br>
 <br>
