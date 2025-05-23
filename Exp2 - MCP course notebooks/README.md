@@ -1,4 +1,4 @@
-## EXP2 - Deeplearning.Ai MCP course notebooks
+## Exp2 - Deeplearning.Ai MCP course notebooks
 
 ### Objective
 - Upload the notebooks from the deeplearning.ai MCP course, for easier reference.
