@@ -10,6 +10,9 @@ My experiments with MCP (Model Context Protocol)
 
 - Exp2 - Deeplearning.Ai MCP course notebooks<br>
 https://github.com/vbookshelf/Model-Context-Protocol-MCP-Experiments/tree/main/Exp2%20-%20MCP%20course%20notebooks
+
+- Exp3 - Create a simple MCP server<br>
+https://github.com/vbookshelf/MCP-Model-Context-Protocol-Experiments/tree/main/Exp3%20-%20Create%20a%20simple%20MCP%20server
 <br>
 <br>
 
