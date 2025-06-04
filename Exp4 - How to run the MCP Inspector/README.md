@@ -6,3 +6,4 @@
 
 ### Notes
 - The attached pdf file describes the step-by-step process.
+- I also includes notes on using the uv package manager.
