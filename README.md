@@ -13,6 +13,9 @@ https://github.com/vbookshelf/Model-Context-Protocol-MCP-Experiments/tree/main/E
 
 - Exp3 - Create a simple MCP server<br>
 https://github.com/vbookshelf/MCP-Model-Context-Protocol-Experiments/tree/main/Exp3%20-%20Create%20a%20simple%20MCP%20server
+
+- Exp4 - How to run the MCP Inspector<br>
+https://github.com/vbookshelf/MCP-Model-Context-Protocol-Experiments/blob/main/Exp4%20-%20How%20to%20run%20the%20MCP%20Inspector/README.md
 <br>
 <br>
 
